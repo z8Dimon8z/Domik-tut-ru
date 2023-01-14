@@ -1,9 +1,9 @@
-@import 'reset';
-@import 'fonts';
-@import 'vars';
-@import 'global';
-@import 'libs';
-@import 'mixsin';
+@import 'base/reset';
+@import 'base/fonts';
+@import 'base/vars';
+@import 'base/global';
+@import 'base/libs';
+@import 'base/mixsin';
 
 .text{
   font-family: 'Ruda-Black', sans-serif;
@@ -19,7 +19,7 @@
 
 
 
-@import 'media';
+@import 'base/media';
 
 
 
